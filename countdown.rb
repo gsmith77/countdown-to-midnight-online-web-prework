@@ -5,10 +5,3 @@ def countdown(number)
   number-=1
 end
 end
- 
- def countdown_output(number)
-   number =12
-   while number == 0
-   puts "Happy NEW YEAR!"
- end
- end
