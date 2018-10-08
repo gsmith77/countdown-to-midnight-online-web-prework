@@ -11,4 +11,4 @@ end
    if number == 0
    puts "Happy NEW YEAR!"
  end
- 
+ end
