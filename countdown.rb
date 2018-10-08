@@ -6,6 +6,4 @@ def countdown(number)
 end
 end
 
-if countdown == 0
   puts"HAPPY NEW YEAR!"
-end
