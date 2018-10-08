@@ -7,6 +7,11 @@ end
 return "HAPPY NEW YEAR!"
 end
 
-countdown_with_sleep(num_secs) do
+countdown_with_sleep(number) do
   sleep (1)
+  number=5
+  while number>0
+  puts "#{number} SECOND(S)!"
+  number-=1
+end
   
