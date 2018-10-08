@@ -6,4 +6,4 @@ def countdown(number)
 end
 end
 
- countdown("HAPPY NEW YEAR!")
+ countdown(0) == "Happy New Year!"
