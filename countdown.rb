@@ -7,4 +7,6 @@ end
 return "HAPPY NEW YEAR!"
 end
 
-countdown_with_sleep(sleep(num_secs))
+countdown_with_sleep(num_secs) do
+  sleep(1)
+  sleep(
